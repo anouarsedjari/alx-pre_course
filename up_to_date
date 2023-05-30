@@ -1,0 +1,4 @@
+git add .
+git commit -m "How to be up to date in git"
+git remote add origin https://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@github.com/anouarsedjari/alx-pre_course.git 
+git push origin master
